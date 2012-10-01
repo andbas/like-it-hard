@@ -1,0 +1,11 @@
+{
+  "name":"like-it-hard",
+  "version":"0.1.0",
+  "node":"0.8.9",
+  "author":"andbas",
+  "dependencies": {
+    "socket.io": "0.9.x",
+    "serialport2": "0.0.x",
+    "express": "3.0.x"
+  }
+}
